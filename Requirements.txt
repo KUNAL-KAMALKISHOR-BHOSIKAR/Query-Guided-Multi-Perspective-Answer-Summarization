@@ -1,0 +1,9 @@
+﻿datasets
+sentence-transformers
+rank_bm25
+transformers
+torch
+sentencepiece
+rouge_score
+simplet5 -q
+wandb
